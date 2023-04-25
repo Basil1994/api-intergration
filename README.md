@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Additions:
+  - Used TailwindCSS to style the page.
+  - Added some basic validation to make sure all the input fields are filled in before the form is submitted.
+  
+Install the following: - npm install axios 
+                       - npm install tailwind
+  
 ## Available Scripts
 
 In the project directory, you can run:
